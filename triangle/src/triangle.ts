@@ -25,8 +25,6 @@ export function triangleSum(triangle: number[][]): number {
   return sum;
 }
 
-
-
 const triangle = [
   [2],
   [3, 4],
@@ -40,4 +38,4 @@ const triangle = [
 //   [6, 5, 7]
 // ];
 
-console.log(triangleSum(triangle));
+// console.log(triangleSum(triangle));
